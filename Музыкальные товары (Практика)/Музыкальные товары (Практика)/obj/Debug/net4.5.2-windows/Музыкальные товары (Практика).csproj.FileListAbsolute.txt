@@ -1,0 +1,11 @@
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\bin\Debug\net4.5.2-windows\Музыкальные товары (Практика).exe.config
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\bin\Debug\net4.5.2-windows\Музыкальные товары (Практика).exe
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\bin\Debug\net4.5.2-windows\Музыкальные товары (Практика).pdb
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\obj\Debug\net4.5.2-windows\Музыкальные товары (Практика).csprojAssemblyReference.cache
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\obj\Debug\net4.5.2-windows\Музыкальные_товары__Практика_.Form1.resources
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\obj\Debug\net4.5.2-windows\Музыкальные товары (Практика).csproj.GenerateResource.cache
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\obj\Debug\net4.5.2-windows\Музыкальные товары (Практика).AssemblyInfoInputs.cache
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\obj\Debug\net4.5.2-windows\Музыкальные товары (Практика).AssemblyInfo.cs
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\obj\Debug\net4.5.2-windows\Музыкальные товары (Практика).csproj.CoreCompileInputs.cache
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\obj\Debug\net4.5.2-windows\Музыкальные товары (Практика).exe
+C:\Users\TuTuT\source\repos\Музыкальные товары (Практика)\Музыкальные товары (Практика)\obj\Debug\net4.5.2-windows\Музыкальные товары (Практика).pdb
